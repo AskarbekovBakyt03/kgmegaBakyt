@@ -1,0 +1,11 @@
+-- Integer id;
+--     String street;
+--     String house;
+-- Integer flat;
+-- -- Integer floor;
+--
+-- insert into addresses(id, street, house,flst,floor) values (1,'Manas', '1A', 10, 4);
+-- insert into addresses(id, street, house,flst,floor) values (2,'Manas', '2B', 10, 4);
+-- insert into addresses(id, street, house,flst,floor) values (3,'Sovetskaya', '1A', 10, 4);
+-- insert into addresses(id, street, house,flst,floor) values (4,'Manas', '1A', 10, 4);
+-- insert into addresses(id, street, house,flst,floor) values (5,'Manas', '1A', 10, 4);
